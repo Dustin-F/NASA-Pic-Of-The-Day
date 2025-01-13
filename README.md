@@ -21,6 +21,7 @@ This is a simple web application that allows users to retrieve NASA's Astronomy 
 ## API Used
 The application uses the [NASA Astronomy Picture of the Day (APOD) API](https://api.nasa.gov/) to retrieve the image and its corresponding explanation.
 
-##Screen Shots
-![Screenshot description](img/screenshot.png)
+## Screenshots
+Here is a screenshot of the web application:
 
+![Screenshot description](img/screenshot.png)
