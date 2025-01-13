@@ -24,4 +24,4 @@ The application uses the [NASA Astronomy Picture of the Day (APOD) API](https://
 ## Screenshots
 Here is a screenshot of the web application:
 
-![Screenshot description](img/screenshot.png)
+![Screenshot description](img/Screenshot.png)
